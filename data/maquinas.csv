@@ -1,0 +1,21 @@
+id_maquina,tipo,id_cliente,localizacao,status,ultima_manutencao,horas_operacao,falhas_90d,ultimo_erro
+1,Multibebidas Modelo A,33,Fortaleza,operando,2026-03-25,3699,0,nenhum
+2,Multibebidas Modelo B,34,Porto Alegre,parada,2026-01-17,7619,5,aquecimento
+3,Multibebidas Modelo C,19,Belo Horizonte,manutencao,2026-09-05,528,3,bomba
+4,Multibebidas Modelo B,41,São Paulo,operando,2025-04-07,4670,0,nenhum
+5,Multibebidas Modelo C,44,Rio de Janeiro,manutencao,2026-09-10,7253,2,bomba
+6,Multibebidas Modelo C,10,Rio de Janeiro,operando,2025-05-25,7609,0,nenhum
+7,Multibebidas Modelo A,23,Salvador,operando,2026-09-02,5906,5,sensor
+8,Multibebidas Modelo C,6,Belo Horizonte,operando,2025-12-03,6761,4,sensor
+9,Multibebidas Modelo C,9,Porto Alegre,parada,2026-01-06,249,3,sensor
+10,Multibebidas Modelo B,24,Salvador,operando,2026-05-13,1672,1,aquecimento
+11,Multibebidas Modelo B,15,Brasília,operando,2025-04-14,4258,1,vazamento
+12,Multibebidas Modelo C,50,Rio de Janeiro,parada,2025-12-11,7279,5,vazamento
+13,Multibebidas Modelo A,50,Rio de Janeiro,parada,2025-06-16,1581,3,sensor
+14,Multibebidas Modelo A,45,Manaus,parada,2026-02-25,3084,3,sensor
+15,Multibebidas Modelo C,44,Rio de Janeiro,operando,2026-04-05,2016,3,bomba
+16,Multibebidas Modelo A,35,Manaus,operando,2026-01-12,5656,2,sensor
+17,Multibebidas Modelo B,37,São Paulo,manutencao,2026-05-30,4420,3,bomba
+18,Multibebidas Modelo B,27,Porto Alegre,operando,2025-02-23,5352,1,aquecimento
+19,Multibebidas Modelo C,31,São Paulo,operando,2026-06-13,7072,4,vazamento
+20,Multibebidas Modelo A,8,São Paulo,operando,2025-10-07,3780,0,nenhum

@@ -1,0 +1,201 @@
+id_pedido,id_cliente,id_vendedor,produto,quantidade,preco_unitario,total,status,data_pedido
+1,18,8,Cafe em graos 1kg,18,50.95,917.1,em_transito,2026-08-14
+2,31,4,Maquina de capsulas multibebidas,16,858.72,13739.52,entregue,2025-04-07
+3,7,7,Cafe soluvel,14,29.4,411.6,entregue,2025-04-11
+4,4,7,Capsulas de cha,11,43.41,477.51,entregue,2025-09-12
+5,13,4,Capsulas de cappuccino,15,33.93,508.95,entregue,2025-10-13
+6,30,4,Maquina de capsulas multibebidas,3,629.17,1887.51,em_transito,2025-04-11
+7,4,9,Maquina de capsulas multibebidas,1,960.47,960.47,entregue,2025-06-20
+8,27,8,Capsulas de espresso,7,51.35,359.45,entregue,2025-06-18
+9,25,1,Capsulas de espresso,9,53.02,477.18,cancelado,2025-10-20
+10,28,9,Capsulas de cha,16,28.56,456.96,entregue,2025-08-11
+11,4,10,Capsulas de cha,18,26.4,475.2,entregue,2025-02-28
+12,4,10,Capsulas de espresso,17,52.82,897.94,em_transito,2025-06-11
+13,4,9,Cafe torrado e moido 500g,6,18.96,113.76,entregue,2025-08-29
+14,26,2,Capsulas de cappuccino,8,46.21,369.68,entregue,2026-09-27
+15,6,7,Capsulas de cha,19,38.0,722.0,entregue,2025-09-25
+16,14,6,Cafe em graos 1kg,9,62.81,565.29,entregue,2026-04-14
+17,21,2,Cafe torrado e moido 500g,15,26.7,400.5,em_transito,2025-04-13
+18,5,9,Cafe em graos 1kg,17,56.93,967.81,entregue,2025-03-12
+19,16,6,Cafe soluvel,6,29.89,179.34,em_transito,2025-11-06
+20,40,9,Cafe torrado e moido 500g,18,22.19,399.42,entregue,2025-05-18
+21,17,2,Cafe torrado e moido 500g,18,20.18,363.24,entregue,2026-09-12
+22,14,6,Cafe em graos 1kg,9,67.74,609.66,entregue,2025-02-22
+23,6,7,Maquina de capsulas multibebidas,9,377.77,3399.93,entregue,2025-05-14
+24,41,5,Cafe em graos 1kg,15,69.83,1047.45,cancelado,2026-07-29
+25,1,2,Cafe torrado e moido 500g,5,25.64,128.2,entregue,2026-08-20
+26,36,3,Capsulas de espresso,5,29.13,145.65,entregue,2025-02-10
+27,23,4,Capsulas de cha,8,40.34,322.72,entregue,2026-07-28
+28,27,10,Capsulas de cha,5,46.29,231.45,entregue,2025-06-16
+29,12,7,Cafe torrado e moido 500g,6,28.31,169.86,entregue,2026-02-26
+30,43,4,Cafe soluvel,6,36.17,217.02,entregue,2026-01-27
+31,3,8,Cafe em graos 1kg,7,81.75,572.25,cancelado,2025-12-25
+32,20,4,Cafe em graos 1kg,1,74.7,74.7,cancelado,2025-12-03
+33,18,2,Maquina de capsulas multibebidas,9,571.22,5140.98,em_transito,2026-02-14
+34,44,9,Cafe soluvel,1,24.08,24.08,entregue,2025-07-02
+35,38,5,Cafe torrado e moido 500g,4,26.35,105.4,entregue,2025-11-18
+36,28,10,Capsulas de cappuccino,4,40.79,163.16,em_transito,2025-07-14
+37,17,1,Capsulas de cha,14,25.04,350.56,em_transito,2025-07-21
+38,24,7,Cafe torrado e moido 500g,11,26.72,293.92,entregue,2025-11-04
+39,33,5,Capsulas de cha,14,32.5,455.0,entregue,2026-07-22
+40,9,4,Capsulas de espresso,13,46.29,601.77,entregue,2026-09-23
+41,37,5,Capsulas de espresso,18,50.51,909.18,entregue,2025-10-21
+42,14,7,Maquina de capsulas multibebidas,19,732.2,13911.8,entregue,2026-04-22
+43,29,8,Capsulas de cha,7,36.76,257.32,entregue,2025-03-28
+44,19,9,Capsulas de cha,20,32.71,654.2,entregue,2025-11-14
+45,15,4,Cafe em graos 1kg,1,47.08,47.08,cancelado,2026-09-18
+46,50,2,Capsulas de espresso,14,51.93,727.02,em_transito,2025-07-19
+47,46,7,Capsulas de espresso,13,34.59,449.67,entregue,2025-04-20
+48,50,7,Cafe em graos 1kg,6,81.18,487.08,em_transito,2026-04-21
+49,4,9,Cafe em graos 1kg,4,65.54,262.16,cancelado,2026-06-28
+50,36,10,Cafe soluvel,15,33.03,495.45,em_transito,2026-03-13
+51,36,8,Cafe em graos 1kg,16,65.25,1044.0,entregue,2025-10-11
+52,50,9,Capsulas de espresso,8,35.41,283.28,entregue,2025-10-20
+53,16,5,Cafe soluvel,11,38.07,418.77,entregue,2025-05-22
+54,10,4,Capsulas de espresso,5,47.07,235.35,entregue,2026-03-01
+55,27,6,Capsulas de cappuccino,15,41.64,624.6,entregue,2026-03-07
+56,25,10,Capsulas de cha,1,44.7,44.7,em_transito,2026-01-25
+57,31,1,Cafe soluvel,10,35.56,355.6,cancelado,2026-07-06
+58,48,9,Maquina de capsulas multibebidas,20,915.62,18312.4,cancelado,2025-08-13
+59,18,7,Capsulas de espresso,1,38.5,38.5,cancelado,2025-06-19
+60,30,3,Capsulas de cappuccino,18,30.76,553.68,cancelado,2026-08-30
+61,37,1,Cafe torrado e moido 500g,14,19.9,278.6,cancelado,2025-07-06
+62,4,5,Capsulas de espresso,11,33.71,370.81,entregue,2025-12-12
+63,49,7,Cafe soluvel,14,26.54,371.56,entregue,2026-04-27
+64,2,9,Cafe torrado e moido 500g,12,21.14,253.68,entregue,2025-02-11
+65,49,1,Cafe em graos 1kg,7,82.77,579.39,em_transito,2025-06-06
+66,16,3,Capsulas de espresso,4,43.23,172.92,entregue,2026-04-22
+67,45,5,Maquina de capsulas multibebidas,12,455.71,5468.52,em_transito,2025-04-28
+68,50,3,Cafe soluvel,4,32.42,129.68,entregue,2026-08-13
+69,44,7,Capsulas de espresso,7,30.05,210.35,entregue,2025-04-15
+70,45,5,Maquina de capsulas multibebidas,20,857.48,17149.6,em_transito,2025-02-12
+71,23,9,Capsulas de espresso,12,29.86,358.32,entregue,2025-01-13
+72,27,8,Cafe torrado e moido 500g,14,31.45,440.3,cancelado,2025-06-06
+73,28,3,Capsulas de cha,17,47.21,802.57,entregue,2026-09-23
+74,35,8,Capsulas de espresso,14,50.29,704.06,em_transito,2025-10-02
+75,21,4,Maquina de capsulas multibebidas,3,525.72,1577.16,cancelado,2025-09-07
+76,49,8,Capsulas de cappuccino,20,48.71,974.2,entregue,2025-01-30
+77,32,6,Cafe em graos 1kg,16,54.55,872.8,entregue,2025-12-15
+78,18,10,Capsulas de cha,9,37.78,340.02,em_transito,2025-07-15
+79,6,4,Capsulas de cha,14,36.24,507.36,entregue,2026-05-03
+80,42,8,Capsulas de espresso,1,30.51,30.51,entregue,2026-02-19
+81,45,4,Cafe soluvel,19,28.64,544.16,em_transito,2026-06-28
+82,23,7,Capsulas de cha,18,32.61,586.98,cancelado,2025-10-05
+83,20,5,Cafe em graos 1kg,4,77.46,309.84,entregue,2025-05-03
+84,48,9,Maquina de capsulas multibebidas,6,470.67,2824.02,cancelado,2025-10-11
+85,47,10,Maquina de capsulas multibebidas,17,725.98,12341.66,entregue,2025-07-18
+86,19,4,Cafe soluvel,6,27.44,164.64,em_transito,2025-05-10
+87,18,1,Cafe torrado e moido 500g,18,22.09,397.62,entregue,2026-05-18
+88,7,1,Capsulas de cappuccino,10,43.14,431.4,cancelado,2025-12-15
+89,12,1,Cafe soluvel,16,24.05,384.8,entregue,2026-02-15
+90,32,2,Capsulas de cappuccino,2,34.25,68.5,em_transito,2025-11-08
+91,6,4,Cafe torrado e moido 500g,18,28.7,516.6,em_transito,2026-09-03
+92,40,4,Maquina de capsulas multibebidas,17,589.64,10023.88,cancelado,2025-11-01
+93,38,7,Cafe soluvel,19,33.18,630.42,em_transito,2025-04-12
+94,49,4,Capsulas de cha,7,31.09,217.63,entregue,2025-06-10
+95,16,3,Capsulas de cappuccino,3,34.38,103.14,cancelado,2026-04-07
+96,45,10,Capsulas de espresso,10,28.88,288.8,entregue,2025-10-17
+97,45,8,Cafe torrado e moido 500g,8,30.93,247.44,em_transito,2025-07-22
+98,28,2,Capsulas de cappuccino,8,48.13,385.04,entregue,2025-05-26
+99,5,1,Cafe em graos 1kg,10,71.78,717.8,em_transito,2025-10-23
+100,29,2,Capsulas de espresso,10,46.89,468.9,entregue,2026-05-28
+101,35,8,Capsulas de espresso,3,44.15,132.45,cancelado,2025-11-27
+102,39,5,Cafe torrado e moido 500g,3,21.2,63.6,em_transito,2026-08-25
+103,2,5,Capsulas de cappuccino,2,51.37,102.74,entregue,2026-04-27
+104,34,8,Cafe soluvel,6,39.95,239.7,cancelado,2026-05-19
+105,6,8,Cafe soluvel,14,28.0,392.0,entregue,2025-06-14
+106,22,7,Capsulas de cha,16,31.63,506.08,cancelado,2026-07-18
+107,3,8,Cafe torrado e moido 500g,11,21.53,236.83,entregue,2026-02-18
+108,33,1,Capsulas de cha,18,35.63,641.34,entregue,2025-07-12
+109,34,6,Capsulas de cappuccino,16,47.51,760.16,entregue,2025-07-28
+110,18,9,Cafe em graos 1kg,10,64.72,647.2,cancelado,2025-05-05
+111,2,10,Maquina de capsulas multibebidas,8,797.16,6377.28,entregue,2026-07-19
+112,1,9,Capsulas de espresso,3,34.07,102.21,entregue,2026-04-18
+113,8,3,Capsulas de espresso,10,41.74,417.4,entregue,2026-03-02
+114,31,8,Cafe em graos 1kg,15,69.81,1047.15,cancelado,2025-07-15
+115,39,9,Capsulas de cha,5,44.87,224.35,entregue,2026-03-01
+116,22,9,Cafe soluvel,1,27.09,27.09,entregue,2026-08-25
+117,38,8,Maquina de capsulas multibebidas,5,631.32,3156.6,cancelado,2025-12-20
+118,22,9,Maquina de capsulas multibebidas,18,587.64,10577.52,entregue,2025-07-13
+119,45,4,Capsulas de cappuccino,13,36.54,475.02,cancelado,2025-02-14
+120,21,8,Capsulas de cha,13,33.88,440.44,entregue,2026-05-23
+121,3,3,Capsulas de cappuccino,19,39.3,746.7,entregue,2026-03-27
+122,7,9,Capsulas de espresso,1,47.51,47.51,cancelado,2025-06-08
+123,5,8,Maquina de capsulas multibebidas,9,563.29,5069.61,cancelado,2025-03-24
+124,22,9,Capsulas de espresso,11,44.92,494.12,cancelado,2026-07-09
+125,3,10,Cafe torrado e moido 500g,8,26.84,214.72,entregue,2025-08-21
+126,48,2,Capsulas de espresso,4,48.53,194.12,entregue,2026-03-31
+127,11,5,Cafe torrado e moido 500g,2,22.54,45.08,entregue,2025-10-28
+128,23,6,Capsulas de espresso,5,34.59,172.95,cancelado,2026-08-03
+129,44,3,Cafe em graos 1kg,6,48.55,291.3,cancelado,2026-09-27
+130,44,4,Capsulas de espresso,19,31.86,605.34,cancelado,2025-09-18
+131,30,5,Capsulas de cha,1,45.67,45.67,cancelado,2025-10-22
+132,44,9,Cafe em graos 1kg,3,64.88,194.64,entregue,2026-08-25
+133,20,7,Capsulas de cha,9,35.51,319.59,entregue,2025-07-23
+134,25,8,Cafe torrado e moido 500g,8,23.34,186.72,entregue,2026-08-12
+135,19,5,Cafe torrado e moido 500g,13,21.84,283.92,em_transito,2025-02-20
+136,39,8,Maquina de capsulas multibebidas,10,838.72,8387.2,entregue,2026-09-14
+137,23,4,Capsulas de cha,7,39.28,274.96,entregue,2025-04-10
+138,41,1,Cafe soluvel,15,22.6,339.0,entregue,2025-05-15
+139,6,5,Cafe soluvel,14,25.16,352.24,entregue,2026-07-07
+140,24,9,Capsulas de cappuccino,9,53.25,479.25,entregue,2026-05-09
+141,19,6,Maquina de capsulas multibebidas,4,645.05,2580.2,entregue,2025-05-25
+142,49,4,Maquina de capsulas multibebidas,13,959.38,12471.94,em_transito,2026-01-10
+143,6,7,Cafe torrado e moido 500g,9,25.51,229.59,cancelado,2026-01-13
+144,44,5,Capsulas de cappuccino,13,53.03,689.39,entregue,2025-04-21
+145,44,4,Capsulas de espresso,1,44.73,44.73,em_transito,2025-12-02
+146,40,4,Capsulas de cha,3,39.61,118.83,cancelado,2025-11-06
+147,42,7,Cafe torrado e moido 500g,5,18.63,93.15,entregue,2025-11-08
+148,32,2,Cafe torrado e moido 500g,8,30.42,243.36,entregue,2026-02-02
+149,30,6,Capsulas de cha,18,34.64,623.52,entregue,2026-03-01
+150,42,2,Maquina de capsulas multibebidas,16,737.86,11805.76,entregue,2025-02-03
+151,45,6,Cafe em graos 1kg,15,65.01,975.15,entregue,2026-01-07
+152,7,6,Capsulas de cappuccino,12,31.7,380.4,entregue,2025-07-14
+153,8,8,Cafe torrado e moido 500g,7,26.98,188.86,em_transito,2025-01-22
+154,4,6,Cafe em graos 1kg,5,80.41,402.05,entregue,2025-03-12
+155,49,9,Cafe em graos 1kg,19,54.72,1039.68,entregue,2025-12-03
+156,50,3,Maquina de capsulas multibebidas,20,351.79,7035.8,entregue,2025-05-14
+157,35,5,Maquina de capsulas multibebidas,6,419.25,2515.5,entregue,2025-05-15
+158,1,6,Maquina de capsulas multibebidas,8,720.98,5767.84,entregue,2025-06-28
+159,17,1,Cafe em graos 1kg,14,68.67,961.38,entregue,2026-05-03
+160,29,6,Capsulas de cappuccino,19,33.05,627.95,em_transito,2025-08-15
+161,40,1,Capsulas de cha,17,31.94,542.98,entregue,2025-03-04
+162,31,7,Capsulas de espresso,4,41.24,164.96,cancelado,2025-03-17
+163,6,6,Capsulas de cappuccino,5,31.84,159.2,entregue,2026-08-23
+164,36,6,Capsulas de espresso,20,42.33,846.6,cancelado,2026-06-02
+165,39,7,Cafe torrado e moido 500g,4,29.94,119.76,em_transito,2025-08-09
+166,28,8,Cafe em graos 1kg,14,60.25,843.5,cancelado,2026-02-13
+167,27,2,Cafe soluvel,14,27.63,386.82,entregue,2026-01-19
+168,10,8,Cafe torrado e moido 500g,3,29.64,88.92,entregue,2026-03-19
+169,7,6,Maquina de capsulas multibebidas,5,700.51,3502.55,em_transito,2026-07-30
+170,36,6,Capsulas de cha,4,34.45,137.8,cancelado,2025-02-22
+171,19,10,Cafe soluvel,12,23.86,286.32,em_transito,2025-08-06
+172,10,8,Cafe em graos 1kg,4,60.76,243.04,em_transito,2026-01-12
+173,8,5,Capsulas de cappuccino,8,52.6,420.8,em_transito,2026-09-29
+174,40,9,Cafe torrado e moido 500g,20,31.01,620.2,entregue,2025-01-30
+175,12,5,Capsulas de cha,10,46.2,462.0,entregue,2025-01-07
+176,12,3,Capsulas de cappuccino,13,31.95,415.35,entregue,2025-04-04
+177,48,9,Cafe em graos 1kg,13,63.89,830.57,entregue,2025-06-11
+178,24,5,Capsulas de cha,11,42.87,471.57,em_transito,2026-09-03
+179,6,1,Cafe em graos 1kg,6,78.95,473.7,entregue,2025-03-25
+180,18,8,Capsulas de cha,14,36.17,506.38,cancelado,2026-03-01
+181,18,4,Maquina de capsulas multibebidas,17,421.71,7169.07,cancelado,2025-04-24
+182,19,10,Capsulas de espresso,17,46.01,782.17,entregue,2025-08-14
+183,26,10,Cafe torrado e moido 500g,1,20.86,20.86,entregue,2025-05-21
+184,49,5,Cafe soluvel,11,24.16,265.76,cancelado,2026-03-17
+185,12,3,Capsulas de espresso,18,47.0,846.0,em_transito,2026-07-27
+186,43,6,Cafe torrado e moido 500g,13,30.06,390.78,entregue,2026-03-23
+187,2,8,Cafe torrado e moido 500g,11,26.06,286.66,em_transito,2026-02-19
+188,46,7,Cafe soluvel,4,29.29,117.16,entregue,2025-06-25
+189,40,8,Maquina de capsulas multibebidas,12,405.52,4866.24,entregue,2025-09-07
+190,28,10,Capsulas de espresso,17,30.12,512.04,entregue,2025-12-14
+191,15,6,Maquina de capsulas multibebidas,6,398.12,2388.72,entregue,2026-06-28
+192,33,4,Maquina de capsulas multibebidas,12,571.19,6854.28,entregue,2025-08-30
+193,7,3,Cafe soluvel,7,25.12,175.84,entregue,2025-03-19
+194,12,8,Capsulas de espresso,19,48.52,921.88,cancelado,2026-08-02
+195,42,10,Cafe soluvel,11,24.72,271.92,entregue,2026-04-26
+196,29,5,Maquina de capsulas multibebidas,9,722.59,6503.31,entregue,2026-06-04
+197,5,5,Capsulas de espresso,15,29.02,435.3,entregue,2025-10-21
+198,5,2,Capsulas de cappuccino,20,44.2,884.0,cancelado,2026-08-18
+199,36,1,Capsulas de espresso,19,45.6,866.4,entregue,2026-09-12
+200,31,9,Cafe em graos 1kg,2,65.27,130.54,entregue,2025-03-28
